@@ -1,0 +1,52 @@
+ Private  +   Shared  =  RAM used	Program
+
+  4.0 KiB +  42.0 KiB =  46.0 KiB	startx
+100.0 KiB +  42.0 KiB = 142.0 KiB	sh
+100.0 KiB +  95.5 KiB = 195.5 KiB	xinit
+188.0 KiB +  47.0 KiB = 235.0 KiB	acpid
+236.0 KiB +  92.0 KiB = 328.0 KiB	atd
+328.0 KiB + 102.5 KiB = 430.5 KiB	cron
+508.0 KiB +  21.5 KiB = 529.5 KiB	ssh-agent
+424.0 KiB + 115.5 KiB = 539.5 KiB	rtkit-daemon
+556.0 KiB +  53.5 KiB = 609.5 KiB	lxcfs
+592.0 KiB +  91.0 KiB = 683.0 KiB	lvmetad
+692.0 KiB +  88.5 KiB = 780.5 KiB	gpg-agent
+604.0 KiB + 266.0 KiB = 870.0 KiB	gvfsd-metadata
+644.0 KiB + 228.0 KiB = 872.0 KiB	xfconfd
+616.0 KiB + 407.0 KiB =   1.0 MiB	systemd-timesyncd
+788.0 KiB + 302.5 KiB =   1.1 MiB	at-spi-bus-launcher
+864.0 KiB + 267.5 KiB =   1.1 MiB	login
+772.0 KiB + 437.5 KiB =   1.2 MiB	systemd-logind
+856.0 KiB + 413.5 KiB =   1.2 MiB	at-spi2-registryd
+828.0 KiB + 469.0 KiB =   1.3 MiB	gvfsd
+616.0 KiB + 772.0 KiB =   1.4 MiB	(sd-pam)
+  1.4 MiB +  33.0 KiB =   1.5 MiB	dhclient
+  1.5 MiB +  89.5 KiB =   1.5 MiB	rsyslogd
+  1.2 MiB + 319.0 KiB =   1.5 MiB	sudo
+  1.0 MiB + 551.0 KiB =   1.6 MiB	gvfsd-trash
+  1.5 MiB + 166.0 KiB =   1.7 MiB	bash (2)
+  1.3 MiB + 388.0 KiB =   1.7 MiB	systemd-journald
+  1.8 MiB + 398.5 KiB =   2.2 MiB	polkitd
+  1.5 MiB + 649.5 KiB =   2.2 MiB	gvfs-udisks2-volume-monitor
+  1.7 MiB + 784.0 KiB =   2.4 MiB	dbus-daemon (3)
+  2.1 MiB + 518.5 KiB =   2.6 MiB	udisksd
+  2.7 MiB + 124.5 KiB =   2.9 MiB	systemd-udevd
+  2.3 MiB + 735.0 KiB =   3.0 MiB	upowerd
+  2.7 MiB + 308.0 KiB =   3.0 MiB	iscsid (2)
+  1.9 MiB +   1.1 MiB =   3.0 MiB	xfce4-session
+  1.8 MiB +   1.4 MiB =   3.2 MiB	panel-6-systray
+  2.1 MiB +   1.1 MiB =   3.2 MiB	Thunar
+  1.1 MiB +   2.4 MiB =   3.5 MiB	systemd (2)
+  2.1 MiB +   1.7 MiB =   3.7 MiB	panel-2-actions
+  2.6 MiB +   1.4 MiB =   4.1 MiB	xfsettingsd
+  4.1 MiB +   1.9 MiB =   6.0 MiB	xfwm4
+  5.6 MiB + 911.5 KiB =   6.5 MiB	tumblerd
+  6.3 MiB + 428.0 KiB =   6.7 MiB	pulseaudio
+  5.1 MiB +   2.2 MiB =   7.2 MiB	xfce4-panel
+  8.4 MiB +   2.2 MiB =  10.6 MiB	xfdesktop
+ 13.4 MiB +  42.0 KiB =  13.4 MiB	snapd
+ 14.8 MiB +   2.9 MiB =  17.7 MiB	xfce4-terminal
+ 40.6 MiB +   2.4 MiB =  43.0 MiB	Xorg
+---------------------------------
+                        173.8 MiB
+=================================

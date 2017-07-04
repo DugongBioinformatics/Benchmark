@@ -1,0 +1,4 @@
+dugong    1885  0.0  5.1 994332 25808 ?        Ssl  17:25   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+dugong    2043  0.0  4.0 574512 20320 ?        Sl   17:25   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+dugong    2125  0.0  5.2 560404 26288 ?        Ssl  17:25   0:00 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+dugong    2211  0.0  0.1  16288   944 pts/0    S+   17:30   0:00 grep --color=auto unity

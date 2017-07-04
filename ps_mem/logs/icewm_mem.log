@@ -1,0 +1,34 @@
+ Private  +   Shared  =  RAM used	Program
+
+184.0 KiB +  67.0 KiB = 251.0 KiB	acpid
+208.0 KiB +  73.0 KiB = 281.0 KiB	x-session-manag
+248.0 KiB +  57.0 KiB = 305.0 KiB	startx
+236.0 KiB + 131.0 KiB = 367.0 KiB	atd
+224.0 KiB + 179.5 KiB = 403.5 KiB	xinit
+332.0 KiB + 224.5 KiB = 556.5 KiB	cron
+552.0 KiB +  28.5 KiB = 580.5 KiB	ssh-agent
+552.0 KiB +  72.5 KiB = 624.5 KiB	lxcfs
+496.0 KiB + 228.0 KiB = 724.0 KiB	dbus-launch
+608.0 KiB + 154.0 KiB = 762.0 KiB	lvmetad
+616.0 KiB + 510.0 KiB =   1.1 MiB	systemd-timesyncd
+880.0 KiB + 311.5 KiB =   1.2 MiB	login
+780.0 KiB + 544.5 KiB =   1.3 MiB	systemd-logind
+988.0 KiB + 354.0 KiB =   1.3 MiB	sudo
+  1.4 MiB +  39.0 KiB =   1.4 MiB	dhclient
+748.0 KiB + 833.0 KiB =   1.5 MiB	(sd-pam)
+  1.5 MiB + 126.5 KiB =   1.6 MiB	rsyslogd
+  1.2 MiB + 437.0 KiB =   1.6 MiB	systemd-journald
+956.0 KiB + 985.0 KiB =   1.9 MiB	dbus-daemon (2)
+  1.1 MiB + 928.0 KiB =   2.0 MiB	icewmtray
+  1.2 MiB +   1.4 MiB =   2.5 MiB	bash (2)
+  1.6 MiB +   1.2 MiB =   2.8 MiB	icewmbg
+  2.7 MiB + 192.5 KiB =   2.9 MiB	systemd-udevd
+  2.6 MiB + 442.0 KiB =   3.0 MiB	iscsid (2)
+  1.7 MiB +   2.7 MiB =   4.4 MiB	systemd (2)
+  4.8 MiB +   1.4 MiB =   6.2 MiB	icewm
+  6.7 MiB + 683.5 KiB =   7.4 MiB	xterm
+ 13.1 MiB +  61.0 KiB =  13.2 MiB	snapd
+ 41.0 MiB + 951.5 KiB =  42.0 MiB	Xorg
+---------------------------------
+                        104.1 MiB
+=================================
