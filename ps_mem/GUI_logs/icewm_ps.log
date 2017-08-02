@@ -1,4 +1,0 @@
-dugong    1425  0.0  1.4  90304  7376 ?        SNs  15:34   0:00 icewmbg
-dugong    1426  0.1  2.2 101976 11296 ?        Ss   15:34   0:00 icewm --notify
-dugong    1427  0.0  1.2  91172  6284 ?        Ss   15:34   0:00 icewmtray --notify
-dugong    1509  0.0  0.2  16288  1020 pts/0    S+   15:47   0:00 grep --color=auto icewm
