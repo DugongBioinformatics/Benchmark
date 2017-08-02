@@ -1,5 +1,0 @@
-root       933  0.0  0.2 162940  1444 ?        Ssl  16:40   0:00 /usr/bin/lxcfs /var/lib/lxcfs/
-dugong    1336  0.0  2.6 368272 13280 ?        Ssl  16:42   0:00 /usr/bin/lxsession -s Lubuntu -e LXDE
-dugong    1381  0.0  0.0  13176   316 ?        Ss   16:42   0:00 /usr/bin/ssh-agent /usr/bin/lxsession -s Lubuntu -e LXDE
-dugong    1387  0.0  4.9 574400 24748 ?        Sl   16:42   0:00 lxpanel --profile Lubuntu
-dugong    1464  0.0  0.1  16288   992 pts/0    S+   16:46   0:00 grep --color=auto lx
