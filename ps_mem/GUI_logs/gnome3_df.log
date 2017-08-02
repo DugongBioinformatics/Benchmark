@@ -1,9 +1,0 @@
-Filesystem                   Size  Used Avail Use% Mounted on
-udev                         221M     0  221M   0% /dev
-tmpfs                         49M  3.4M   46M   7% /run
-/dev/mapper/ubuntu--vg-root  9.3G  4.7G  4.2G  53% /
-tmpfs                        244M     0  244M   0% /dev/shm
-tmpfs                        5.0M  4.0K  5.0M   1% /run/lock
-tmpfs                        244M     0  244M   0% /sys/fs/cgroup
-tmpfs                         49M   32K   49M   1% /run/user/117
-tmpfs                         49M   24K   49M   1% /run/user/1000
